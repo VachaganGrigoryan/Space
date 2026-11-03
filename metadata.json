@@ -1,0 +1,6 @@
+{
+  "name": "CosmoScope 3D - AI Solar System & Exoplanet Explorer",
+  "description": "Interactive 3D Solar System & Exoplanet Explorer powered by Three.js and Gemini AI for dynamic planetary lore, atmospheric data, and real-time cosmic inquiry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
